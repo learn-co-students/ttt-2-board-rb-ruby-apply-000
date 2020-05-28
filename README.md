@@ -85,16 +85,6 @@ row #=> [" ", "X", " "]
 *Remember: Represent a position in the board array as a string with a space in it: `" "`*
 
 ## Objectives
+board=[ ]
+board=[ 1 2, 1 3,1 4,1 5,1 6,1 7,1 8,1 9,0 0]
 
-1. Define a local variable `board`.
-2. Assign `board` to an array with 9 string elements.
-
-## Instructions
-
-1. Define a local variable in `lib/board.rb` called `board`
-2. Set the `board` local variable equal to an array.
-3. Fill the `board` array with 9 strings containing a single space: `" "`.
-4. Run `learn` and read output and fix any errors.
-5. Submit your solution with `learn submit`.
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ttt-2-board-rb' title='Tic Tac Toe Board'>Tic Tac Toe Board</a> on Learn.co and start learning to code for free.</p>
