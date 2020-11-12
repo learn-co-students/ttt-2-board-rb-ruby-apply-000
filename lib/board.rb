@@ -1,3 +1,3 @@
-board row[1] = [" ", " ", " "]
-board row[2] = [" ", " ", " "]
-board row[3] = [" ", " ", " "]
+board_row_0 = [" ", " ", " "]
+board_row_1 = [" ", " ", " "]
+board_row_2 = [" ", " ", " "]
